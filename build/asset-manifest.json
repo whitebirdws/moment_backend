@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0de6cf5d.chunk.css",
+    "main.js": "/static/js/main.b962e01b.chunk.js",
+    "main.js.map": "/static/js/main.b962e01b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7725c6a8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7725c6a8.js.map",
+    "static/js/2.28ef31f0.chunk.js": "/static/js/2.28ef31f0.chunk.js",
+    "static/js/2.28ef31f0.chunk.js.map": "/static/js/2.28ef31f0.chunk.js.map",
+    "static/js/3.f887ea60.chunk.js": "/static/js/3.f887ea60.chunk.js",
+    "static/js/3.f887ea60.chunk.js.map": "/static/js/3.f887ea60.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0de6cf5d.chunk.css.map": "/static/css/main.0de6cf5d.chunk.css.map",
+    "static/js/2.28ef31f0.chunk.js.LICENSE.txt": "/static/js/2.28ef31f0.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Roboto-Regular.a8d6ac03.ttf",
+    "static/media/backgroundImg1.ab8ff23b.jpg": "/static/media/backgroundImg1.ab8ff23b.jpg",
+    "static/media/latestLogo.svg": "/static/media/latestLogo.b6ab0254.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7725c6a8.js",
+    "static/js/2.28ef31f0.chunk.js",
+    "static/css/main.0de6cf5d.chunk.css",
+    "static/js/main.b962e01b.chunk.js"
+  ]
+}
